@@ -1,0 +1,5 @@
+jpegoptim_version: '1.4.2'
+jpegoptim_tmp_path: /opt
+jpegoptim_source_path: "{{jpegoptim_tmp_path}}/jpegoptim.tar.gz"
+jpegoptim_source_url: "https://github.com/tjko/jpegoptim/archive/RELEASE.{{jpegoptim_version}}.tar.gz"
+jpegoptim_unpacked_sources_path: "{{jpegoptim_tmp_path}}/jpegoptim-RELEASE.{{jpegoptim_version}}"
